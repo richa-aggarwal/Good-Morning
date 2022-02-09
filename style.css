@@ -1,0 +1,29 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body{
+  
+  color: #ffffff;
+  text-align: center;
+  font-size: 200%;
+  margin-top:150px;
+}
+button{
+  background: orange;
+  color: black;
+  border-radius: 600px;
+  margin: 2rem;
+  padding: 1rem;
+}
+hr{
+  max-width: 6px;
+  color: orange;
+}
